@@ -20,7 +20,7 @@ Charles Casper Stockham received 85,213 votes, which is 23% of the total votes. 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 Diana DeGette won the election with 272,892 votes, which was 73.8% of the total vote.
 
-- Results at a glance:
+### Results at a glance:
 
 <img src="https://github.com/kimcheese33/election_analysis/blob/main/Resources/election_results.png" width="300" height="400" />
 
